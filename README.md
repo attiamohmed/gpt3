@@ -2,6 +2,10 @@
 
 Welcome to the repository for my GPT-3 Modern UX/UI Website project! This project showcases my frontend development skills using React, combined with the powerful capabilities of GPT-3. The website demonstrates my ability to create a visually appealing, responsive, and user-friendly interface that leverages advanced AI technology.
 
+You can view the live website here: [GPT-3 Modern UX/UI Website](https://gpt-3.tech/)
+
+![Website Screenshot](gpt-3.png)
+
 ## 🚀 Features
 
 - **Natural Language Processing:** Integrates GPT-3 for state-of-the-art NLP capabilities.
