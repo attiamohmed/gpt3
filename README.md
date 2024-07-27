@@ -35,4 +35,4 @@ Ensure you have Node.js and npm installed on your machine.
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/attiamohmed/gpt3.git
+   https://github.com/attiamohmed/gpt3
